@@ -5,8 +5,12 @@
 ---
 Full-Stack | Programadora :robot:.
 
-Estudante de Engenharia da Computação na Uninter e trabalhando como autonoma. :woman_technologist:
+Estudante de Engenharia da Computação na Uninter e trabalhando como autonoma. 
+
+:woman_technologist:
 Nas horas vagas dedico meu tempo aos games e tecnologias. Faço lives na Twitch.
+
+
 https://www.twitch.tv/rdudarocha
 
 ### Sobre mim
