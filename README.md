@@ -21,8 +21,8 @@ https://www.twitch.tv/rdudarocha
 ### Contatos
 
 [![Linkedin Badge](https://img.shields.io/badge/-Duda%20Rocha-8257e5?style=flat-square&labelColor=8257e5&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/vieira-danilo/)](https://www.linkedin.com/in/duda-rocha-809461162/)
-[![Gmail Badge](https://img.shields.io/badge/-dudarocha603@gmail.com-8257e5?style=flat-square&labelColor=8257e5&logo=microsoft&logoColor=white&link=mailto:dudarocha603@gmail.com)](mailto:dudarocha603@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@_rdudarocha-8257e5?style=flat-square&labelColor=8257e5&logo=instagram&logoColor=white&link=https://www.instagram.com/rdudarocha/)](https://www.instagram.com/_danilovieira/)
+[![Gmail Badge](https://img.shields.io/badge/-dudarocha603@gmail.com-8257e5?style=flat-square&labelColor=8257e5&logo=gmail&logoColor=white&link=mailto:dudarocha603@gmail.com)](mailto:dudarocha603@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@_rdudarocha-8257e5?style=flat-square&labelColor=8257e5&logo=instagram&logoColor=white&link=https://www.instagram.com/rdudarocha/)](https://www.instagram.com/rdudarocha/)
 ---
 
 #### Made with 💜 by Duda Rocha
